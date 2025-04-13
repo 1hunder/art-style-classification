@@ -78,4 +78,4 @@ art-style-classification/
 ├── notebooks/               # Jupyter notebooks for training & analysis
 └── README.md
 
-
+Hope you like my work there :)
